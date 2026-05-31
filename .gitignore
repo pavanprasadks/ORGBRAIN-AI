@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Virtual Environment
+# Virtual Environments
 venv/
 env/
 .venv/
@@ -36,3 +36,4 @@ qdrant_storage/
 dist/
 build/
 *.egg-info/
+
