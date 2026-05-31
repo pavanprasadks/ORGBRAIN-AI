@@ -10,3 +10,5 @@ python-multipart==0.0.20
 orjson==3.11.1
 loguru==0.7.3
 tenacity==9.1.2
+slack-bolt
+slack-sdk

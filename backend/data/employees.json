@@ -1,0 +1,122 @@
+[
+  {
+    "employee_id": "EMP-001",
+    "name": "Alex Kumar",
+    "role": "Engineering Manager",
+    "team": "Product"
+  },
+  {
+    "employee_id": "EMP-002",
+    "name": "Sarah Chen",
+    "role": "Staff Backend Engineer",
+    "team": "Backend Engineering"
+  },
+  {
+    "employee_id": "EMP-003",
+    "name": "John Davis",
+    "role": "SRE Lead",
+    "team": "Backend Engineering"
+  },
+  {
+    "employee_id": "EMP-004",
+    "name": "Emma Wilson",
+    "role": "Product Manager",
+    "team": "Product"
+  },
+  {
+    "employee_id": "EMP-005",
+    "name": "Mike Brown",
+    "role": "Senior Engineer",
+    "team": "SRE"
+  },
+  {
+    "employee_id": "EMP-006",
+    "name": "Priya Sharma",
+    "role": "Backend Engineer",
+    "team": "Frontend Engineering"
+  },
+  {
+    "employee_id": "EMP-007",
+    "name": "David Park",
+    "role": "Frontend Lead",
+    "team": "Frontend Engineering"
+  },
+  {
+    "employee_id": "EMP-008",
+    "name": "Lisa Wong",
+    "role": "Security Engineer",
+    "team": "Frontend Engineering"
+  },
+  {
+    "employee_id": "EMP-009",
+    "name": "Rahul Mehta",
+    "role": "Data Engineer",
+    "team": "Product"
+  },
+  {
+    "employee_id": "EMP-010",
+    "name": "Kevin Smith",
+    "role": "Backend Engineer",
+    "team": "Backend Engineering"
+  },
+  {
+    "employee_id": "EMP-011",
+    "name": "Jennifer Lee",
+    "role": "Product Designer",
+    "team": "Product"
+  },
+  {
+    "employee_id": "EMP-012",
+    "name": "Robert Johnson",
+    "role": "SRE Engineer",
+    "team": "Product"
+  },
+  {
+    "employee_id": "EMP-013",
+    "name": "Sophia Garcia",
+    "role": "Backend Engineer",
+    "team": "Security"
+  },
+  {
+    "employee_id": "EMP-014",
+    "name": "Daniel Kim",
+    "role": "Data Scientist",
+    "team": "Backend Engineering"
+  },
+  {
+    "employee_id": "EMP-015",
+    "name": "Olivia Taylor",
+    "role": "Product Analyst",
+    "team": "Security"
+  },
+  {
+    "employee_id": "EMP-016",
+    "name": "Ethan Clark",
+    "role": "Frontend Engineer",
+    "team": "Data Platform"
+  },
+  {
+    "employee_id": "EMP-017",
+    "name": "Arjun Patel",
+    "role": "Security Lead",
+    "team": "Backend Engineering"
+  },
+  {
+    "employee_id": "EMP-018",
+    "name": "Grace Wilson",
+    "role": "QA Engineer",
+    "team": "Backend Engineering"
+  },
+  {
+    "employee_id": "EMP-019",
+    "name": "Ryan Cooper",
+    "role": "Backend Engineer",
+    "team": "Backend Engineering"
+  },
+  {
+    "employee_id": "EMP-020",
+    "name": "Chloe Martinez",
+    "role": "Engineering Director",
+    "team": "Frontend Engineering"
+  }
+]

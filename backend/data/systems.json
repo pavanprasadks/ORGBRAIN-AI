@@ -1,0 +1,82 @@
+[
+  {
+    "system_id": "SYS-BILL",
+    "name": "Billing Service",
+    "owner": "EMP-006",
+    "backup_owner": "EMP-018",
+    "team": "ENG-BE",
+    "criticality": "High"
+  },
+  {
+    "system_id": "SYS-PAY",
+    "name": "Payment Gateway",
+    "owner": "EMP-016",
+    "backup_owner": "EMP-001",
+    "team": "ENG-FE",
+    "criticality": "High"
+  },
+  {
+    "system_id": "SYS-CUST",
+    "name": "Customer Portal",
+    "owner": "EMP-010",
+    "backup_owner": "EMP-008",
+    "team": "ENG-BE",
+    "criticality": "Medium"
+  },
+  {
+    "system_id": "SYS-ANA",
+    "name": "Analytics Platform",
+    "owner": "EMP-019",
+    "backup_owner": "EMP-003",
+    "team": "ENG-FE",
+    "criticality": "Critical"
+  },
+  {
+    "system_id": "SYS-AUTH",
+    "name": "Authentication Service",
+    "owner": "EMP-003",
+    "backup_owner": "EMP-018",
+    "team": "ENG-SRE",
+    "criticality": "Medium"
+  },
+  {
+    "system_id": "SYS-NOTIF",
+    "name": "Notification Service",
+    "owner": "EMP-016",
+    "backup_owner": "EMP-018",
+    "team": "ENG-SRE",
+    "criticality": "High"
+  },
+  {
+    "system_id": "SYS-INV",
+    "name": "Inventory Service",
+    "owner": "EMP-017",
+    "backup_owner": "EMP-020",
+    "team": "OPS",
+    "criticality": "Medium"
+  },
+  {
+    "system_id": "SYS-SEARCH",
+    "name": "Search Platform",
+    "owner": "EMP-018",
+    "backup_owner": "EMP-007",
+    "team": "PROD",
+    "criticality": "Critical"
+  },
+  {
+    "system_id": "SYS-DATA",
+    "name": "Data Warehouse",
+    "owner": "EMP-012",
+    "backup_owner": "EMP-015",
+    "team": "EXEC",
+    "criticality": "Low"
+  },
+  {
+    "system_id": "SYS-ML",
+    "name": "Recommendation Engine",
+    "owner": "EMP-008",
+    "backup_owner": "EMP-008",
+    "team": "ENG-FE",
+    "criticality": "High"
+  }
+]

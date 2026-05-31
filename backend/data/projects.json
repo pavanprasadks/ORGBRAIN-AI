@@ -1,0 +1,50 @@
+[
+  {
+    "project_id": "PROJ-ATLAS",
+    "systems": [
+      "SYS-BILL",
+      "SYS-DATA",
+      "SYS-ANA"
+    ]
+  },
+  {
+    "project_id": "PROJ-NOVA",
+    "systems": [
+      "SYS-ML",
+      "SYS-ANA",
+      "SYS-BILL"
+    ]
+  },
+  {
+    "project_id": "PROJ-PHOENIX",
+    "systems": [
+      "SYS-PAY",
+      "SYS-BILL",
+      "SYS-ANA"
+    ]
+  },
+  {
+    "project_id": "PROJ-ORION",
+    "systems": [
+      "SYS-PAY",
+      "SYS-BILL",
+      "SYS-NOTIF"
+    ]
+  },
+  {
+    "project_id": "PROJ-MERCURY",
+    "systems": [
+      "SYS-PAY",
+      "SYS-DATA",
+      "SYS-ANA"
+    ]
+  },
+  {
+    "project_id": "PROJ-VEGA",
+    "systems": [
+      "SYS-AUTH",
+      "SYS-SEARCH",
+      "SYS-ANA"
+    ]
+  }
+]

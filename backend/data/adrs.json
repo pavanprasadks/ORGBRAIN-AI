@@ -1,0 +1,2502 @@
+[
+  {
+    "adr_id": "ADR-001",
+    "title": "Architecture Decision 1",
+    "participants": [
+      "EMP-001",
+      "EMP-002"
+    ],
+    "date": "2025-01-02",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-002",
+    "title": "Architecture Decision 2",
+    "participants": [
+      "EMP-008",
+      "EMP-017"
+    ],
+    "date": "2025-01-03",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-003",
+    "title": "Architecture Decision 3",
+    "participants": [
+      "EMP-020",
+      "EMP-001"
+    ],
+    "date": "2025-01-04",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-004",
+    "title": "Architecture Decision 4",
+    "participants": [
+      "EMP-018",
+      "EMP-007"
+    ],
+    "date": "2025-01-05",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-005",
+    "title": "Architecture Decision 5",
+    "participants": [
+      "EMP-018",
+      "EMP-014"
+    ],
+    "date": "2025-01-06",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-006",
+    "title": "Architecture Decision 6",
+    "participants": [
+      "EMP-008",
+      "EMP-015"
+    ],
+    "date": "2025-01-07",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-007",
+    "title": "Architecture Decision 7",
+    "participants": [
+      "EMP-019",
+      "EMP-009"
+    ],
+    "date": "2025-01-08",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-008",
+    "title": "Architecture Decision 8",
+    "participants": [
+      "EMP-001",
+      "EMP-006"
+    ],
+    "date": "2025-01-09",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-009",
+    "title": "Architecture Decision 9",
+    "participants": [
+      "EMP-014",
+      "EMP-011"
+    ],
+    "date": "2025-01-10",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-010",
+    "title": "Architecture Decision 10",
+    "participants": [
+      "EMP-009",
+      "EMP-005"
+    ],
+    "date": "2025-01-11",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-011",
+    "title": "Architecture Decision 11",
+    "participants": [
+      "EMP-007",
+      "EMP-011"
+    ],
+    "date": "2025-01-12",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-012",
+    "title": "Architecture Decision 12",
+    "participants": [
+      "EMP-004",
+      "EMP-003"
+    ],
+    "date": "2025-01-13",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-013",
+    "title": "Architecture Decision 13",
+    "participants": [
+      "EMP-013",
+      "EMP-004"
+    ],
+    "date": "2025-01-14",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-014",
+    "title": "Architecture Decision 14",
+    "participants": [
+      "EMP-012",
+      "EMP-020"
+    ],
+    "date": "2025-01-15",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-015",
+    "title": "Architecture Decision 15",
+    "participants": [
+      "EMP-020",
+      "EMP-009"
+    ],
+    "date": "2025-01-16",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-016",
+    "title": "Architecture Decision 16",
+    "participants": [
+      "EMP-002",
+      "EMP-015"
+    ],
+    "date": "2025-01-17",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-017",
+    "title": "Architecture Decision 17",
+    "participants": [
+      "EMP-018",
+      "EMP-004"
+    ],
+    "date": "2025-01-18",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-018",
+    "title": "Architecture Decision 18",
+    "participants": [
+      "EMP-013",
+      "EMP-003"
+    ],
+    "date": "2025-01-19",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-019",
+    "title": "Architecture Decision 19",
+    "participants": [
+      "EMP-018",
+      "EMP-010"
+    ],
+    "date": "2025-01-20",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-020",
+    "title": "Architecture Decision 20",
+    "participants": [
+      "EMP-020",
+      "EMP-012"
+    ],
+    "date": "2025-01-21",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-021",
+    "title": "Architecture Decision 21",
+    "participants": [
+      "EMP-019",
+      "EMP-007"
+    ],
+    "date": "2025-01-22",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-022",
+    "title": "Architecture Decision 22",
+    "participants": [
+      "EMP-003",
+      "EMP-002"
+    ],
+    "date": "2025-01-23",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-023",
+    "title": "Architecture Decision 23",
+    "participants": [
+      "EMP-008",
+      "EMP-010"
+    ],
+    "date": "2025-01-24",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-024",
+    "title": "Architecture Decision 24",
+    "participants": [
+      "EMP-003",
+      "EMP-008"
+    ],
+    "date": "2025-01-25",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-025",
+    "title": "Architecture Decision 25",
+    "participants": [
+      "EMP-004",
+      "EMP-013"
+    ],
+    "date": "2025-01-26",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-026",
+    "title": "Architecture Decision 26",
+    "participants": [
+      "EMP-009",
+      "EMP-015"
+    ],
+    "date": "2025-01-27",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-027",
+    "title": "Architecture Decision 27",
+    "participants": [
+      "EMP-012",
+      "EMP-006"
+    ],
+    "date": "2025-01-28",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-028",
+    "title": "Architecture Decision 28",
+    "participants": [
+      "EMP-012",
+      "EMP-020"
+    ],
+    "date": "2025-01-29",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-029",
+    "title": "Architecture Decision 29",
+    "participants": [
+      "EMP-007",
+      "EMP-009"
+    ],
+    "date": "2025-01-30",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-030",
+    "title": "Architecture Decision 30",
+    "participants": [
+      "EMP-003",
+      "EMP-006"
+    ],
+    "date": "2025-01-31",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-031",
+    "title": "Architecture Decision 31",
+    "participants": [
+      "EMP-018",
+      "EMP-008"
+    ],
+    "date": "2025-02-01",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-032",
+    "title": "Architecture Decision 32",
+    "participants": [
+      "EMP-006",
+      "EMP-015"
+    ],
+    "date": "2025-02-02",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-033",
+    "title": "Architecture Decision 33",
+    "participants": [
+      "EMP-013",
+      "EMP-009"
+    ],
+    "date": "2025-02-03",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-034",
+    "title": "Architecture Decision 34",
+    "participants": [
+      "EMP-018",
+      "EMP-008"
+    ],
+    "date": "2025-02-04",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-035",
+    "title": "Architecture Decision 35",
+    "participants": [
+      "EMP-011",
+      "EMP-002"
+    ],
+    "date": "2025-02-05",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-036",
+    "title": "Architecture Decision 36",
+    "participants": [
+      "EMP-008",
+      "EMP-002"
+    ],
+    "date": "2025-02-06",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-037",
+    "title": "Architecture Decision 37",
+    "participants": [
+      "EMP-011",
+      "EMP-013"
+    ],
+    "date": "2025-02-07",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-038",
+    "title": "Architecture Decision 38",
+    "participants": [
+      "EMP-009",
+      "EMP-003"
+    ],
+    "date": "2025-02-08",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-039",
+    "title": "Architecture Decision 39",
+    "participants": [
+      "EMP-007",
+      "EMP-019"
+    ],
+    "date": "2025-02-09",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-040",
+    "title": "Architecture Decision 40",
+    "participants": [
+      "EMP-011",
+      "EMP-007"
+    ],
+    "date": "2025-02-10",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-041",
+    "title": "Architecture Decision 41",
+    "participants": [
+      "EMP-016",
+      "EMP-013"
+    ],
+    "date": "2025-02-11",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-042",
+    "title": "Architecture Decision 42",
+    "participants": [
+      "EMP-015",
+      "EMP-005"
+    ],
+    "date": "2025-02-12",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-043",
+    "title": "Architecture Decision 43",
+    "participants": [
+      "EMP-009",
+      "EMP-005"
+    ],
+    "date": "2025-02-13",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-044",
+    "title": "Architecture Decision 44",
+    "participants": [
+      "EMP-008",
+      "EMP-018"
+    ],
+    "date": "2025-02-14",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-045",
+    "title": "Architecture Decision 45",
+    "participants": [
+      "EMP-018",
+      "EMP-009"
+    ],
+    "date": "2025-02-15",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-046",
+    "title": "Architecture Decision 46",
+    "participants": [
+      "EMP-019",
+      "EMP-014"
+    ],
+    "date": "2025-02-16",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-047",
+    "title": "Architecture Decision 47",
+    "participants": [
+      "EMP-019",
+      "EMP-013"
+    ],
+    "date": "2025-02-17",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-048",
+    "title": "Architecture Decision 48",
+    "participants": [
+      "EMP-012",
+      "EMP-008"
+    ],
+    "date": "2025-02-18",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-049",
+    "title": "Architecture Decision 49",
+    "participants": [
+      "EMP-005",
+      "EMP-017"
+    ],
+    "date": "2025-02-19",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-050",
+    "title": "Architecture Decision 50",
+    "participants": [
+      "EMP-016",
+      "EMP-003"
+    ],
+    "date": "2025-02-20",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-051",
+    "title": "Architecture Decision 51",
+    "participants": [
+      "EMP-002",
+      "EMP-004"
+    ],
+    "date": "2025-02-21",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-052",
+    "title": "Architecture Decision 52",
+    "participants": [
+      "EMP-005",
+      "EMP-006"
+    ],
+    "date": "2025-02-22",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-053",
+    "title": "Architecture Decision 53",
+    "participants": [
+      "EMP-014",
+      "EMP-003"
+    ],
+    "date": "2025-02-23",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-054",
+    "title": "Architecture Decision 54",
+    "participants": [
+      "EMP-013",
+      "EMP-020"
+    ],
+    "date": "2025-02-24",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-055",
+    "title": "Architecture Decision 55",
+    "participants": [
+      "EMP-020",
+      "EMP-015"
+    ],
+    "date": "2025-02-25",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-056",
+    "title": "Architecture Decision 56",
+    "participants": [
+      "EMP-017",
+      "EMP-009"
+    ],
+    "date": "2025-02-26",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-057",
+    "title": "Architecture Decision 57",
+    "participants": [
+      "EMP-018",
+      "EMP-001"
+    ],
+    "date": "2025-02-27",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-058",
+    "title": "Architecture Decision 58",
+    "participants": [
+      "EMP-004",
+      "EMP-018"
+    ],
+    "date": "2025-02-28",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-059",
+    "title": "Architecture Decision 59",
+    "participants": [
+      "EMP-009",
+      "EMP-011"
+    ],
+    "date": "2025-03-01",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-060",
+    "title": "Architecture Decision 60",
+    "participants": [
+      "EMP-004",
+      "EMP-010"
+    ],
+    "date": "2025-03-02",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-061",
+    "title": "Architecture Decision 61",
+    "participants": [
+      "EMP-014",
+      "EMP-006"
+    ],
+    "date": "2025-03-03",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-062",
+    "title": "Architecture Decision 62",
+    "participants": [
+      "EMP-015",
+      "EMP-001"
+    ],
+    "date": "2025-03-04",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-063",
+    "title": "Architecture Decision 63",
+    "participants": [
+      "EMP-009",
+      "EMP-017"
+    ],
+    "date": "2025-03-05",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-064",
+    "title": "Architecture Decision 64",
+    "participants": [
+      "EMP-006",
+      "EMP-017"
+    ],
+    "date": "2025-03-06",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-065",
+    "title": "Architecture Decision 65",
+    "participants": [
+      "EMP-004",
+      "EMP-010"
+    ],
+    "date": "2025-03-07",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-066",
+    "title": "Architecture Decision 66",
+    "participants": [
+      "EMP-017",
+      "EMP-007"
+    ],
+    "date": "2025-03-08",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-067",
+    "title": "Architecture Decision 67",
+    "participants": [
+      "EMP-005",
+      "EMP-012"
+    ],
+    "date": "2025-03-09",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-068",
+    "title": "Architecture Decision 68",
+    "participants": [
+      "EMP-006",
+      "EMP-018"
+    ],
+    "date": "2025-03-10",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-069",
+    "title": "Architecture Decision 69",
+    "participants": [
+      "EMP-017",
+      "EMP-001"
+    ],
+    "date": "2025-03-11",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-070",
+    "title": "Architecture Decision 70",
+    "participants": [
+      "EMP-020",
+      "EMP-011"
+    ],
+    "date": "2025-03-12",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-071",
+    "title": "Architecture Decision 71",
+    "participants": [
+      "EMP-016",
+      "EMP-001"
+    ],
+    "date": "2025-03-13",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-072",
+    "title": "Architecture Decision 72",
+    "participants": [
+      "EMP-004",
+      "EMP-012"
+    ],
+    "date": "2025-03-14",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-073",
+    "title": "Architecture Decision 73",
+    "participants": [
+      "EMP-010",
+      "EMP-008"
+    ],
+    "date": "2025-03-15",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-074",
+    "title": "Architecture Decision 74",
+    "participants": [
+      "EMP-002",
+      "EMP-008"
+    ],
+    "date": "2025-03-16",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-075",
+    "title": "Architecture Decision 75",
+    "participants": [
+      "EMP-019",
+      "EMP-003"
+    ],
+    "date": "2025-03-17",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-076",
+    "title": "Architecture Decision 76",
+    "participants": [
+      "EMP-003",
+      "EMP-016"
+    ],
+    "date": "2025-03-18",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-077",
+    "title": "Architecture Decision 77",
+    "participants": [
+      "EMP-003",
+      "EMP-018"
+    ],
+    "date": "2025-03-19",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-078",
+    "title": "Architecture Decision 78",
+    "participants": [
+      "EMP-005",
+      "EMP-020"
+    ],
+    "date": "2025-03-20",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-079",
+    "title": "Architecture Decision 79",
+    "participants": [
+      "EMP-016",
+      "EMP-018"
+    ],
+    "date": "2025-03-21",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-080",
+    "title": "Architecture Decision 80",
+    "participants": [
+      "EMP-006",
+      "EMP-009"
+    ],
+    "date": "2025-03-22",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-081",
+    "title": "Architecture Decision 81",
+    "participants": [
+      "EMP-017",
+      "EMP-014"
+    ],
+    "date": "2025-03-23",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-082",
+    "title": "Architecture Decision 82",
+    "participants": [
+      "EMP-007",
+      "EMP-018"
+    ],
+    "date": "2025-03-24",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-083",
+    "title": "Architecture Decision 83",
+    "participants": [
+      "EMP-007",
+      "EMP-010"
+    ],
+    "date": "2025-03-25",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-084",
+    "title": "Architecture Decision 84",
+    "participants": [
+      "EMP-013",
+      "EMP-012"
+    ],
+    "date": "2025-03-26",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-085",
+    "title": "Architecture Decision 85",
+    "participants": [
+      "EMP-015",
+      "EMP-017"
+    ],
+    "date": "2025-03-27",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-086",
+    "title": "Architecture Decision 86",
+    "participants": [
+      "EMP-015",
+      "EMP-004"
+    ],
+    "date": "2025-03-28",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-087",
+    "title": "Architecture Decision 87",
+    "participants": [
+      "EMP-008",
+      "EMP-020"
+    ],
+    "date": "2025-03-29",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-088",
+    "title": "Architecture Decision 88",
+    "participants": [
+      "EMP-003",
+      "EMP-011"
+    ],
+    "date": "2025-03-30",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-089",
+    "title": "Architecture Decision 89",
+    "participants": [
+      "EMP-001",
+      "EMP-019"
+    ],
+    "date": "2025-03-31",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-090",
+    "title": "Architecture Decision 90",
+    "participants": [
+      "EMP-018",
+      "EMP-008"
+    ],
+    "date": "2025-04-01",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-091",
+    "title": "Architecture Decision 91",
+    "participants": [
+      "EMP-019",
+      "EMP-008"
+    ],
+    "date": "2025-04-02",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-092",
+    "title": "Architecture Decision 92",
+    "participants": [
+      "EMP-001",
+      "EMP-003"
+    ],
+    "date": "2025-04-03",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-093",
+    "title": "Architecture Decision 93",
+    "participants": [
+      "EMP-002",
+      "EMP-008"
+    ],
+    "date": "2025-04-04",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-094",
+    "title": "Architecture Decision 94",
+    "participants": [
+      "EMP-003",
+      "EMP-002"
+    ],
+    "date": "2025-04-05",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-095",
+    "title": "Architecture Decision 95",
+    "participants": [
+      "EMP-011",
+      "EMP-003"
+    ],
+    "date": "2025-04-06",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-096",
+    "title": "Architecture Decision 96",
+    "participants": [
+      "EMP-017",
+      "EMP-008"
+    ],
+    "date": "2025-04-07",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-097",
+    "title": "Architecture Decision 97",
+    "participants": [
+      "EMP-009",
+      "EMP-016"
+    ],
+    "date": "2025-04-08",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-098",
+    "title": "Architecture Decision 98",
+    "participants": [
+      "EMP-007",
+      "EMP-018"
+    ],
+    "date": "2025-04-09",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-099",
+    "title": "Architecture Decision 99",
+    "participants": [
+      "EMP-005",
+      "EMP-019"
+    ],
+    "date": "2025-04-10",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-100",
+    "title": "Architecture Decision 100",
+    "participants": [
+      "EMP-019",
+      "EMP-016"
+    ],
+    "date": "2025-04-11",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-101",
+    "title": "Architecture Decision 101",
+    "participants": [
+      "EMP-008",
+      "EMP-016"
+    ],
+    "date": "2025-04-12",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-102",
+    "title": "Architecture Decision 102",
+    "participants": [
+      "EMP-014",
+      "EMP-007"
+    ],
+    "date": "2025-04-13",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-103",
+    "title": "Architecture Decision 103",
+    "participants": [
+      "EMP-004",
+      "EMP-020"
+    ],
+    "date": "2025-04-14",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-104",
+    "title": "Architecture Decision 104",
+    "participants": [
+      "EMP-014",
+      "EMP-012"
+    ],
+    "date": "2025-04-15",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-105",
+    "title": "Architecture Decision 105",
+    "participants": [
+      "EMP-014",
+      "EMP-020"
+    ],
+    "date": "2025-04-16",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-106",
+    "title": "Architecture Decision 106",
+    "participants": [
+      "EMP-015",
+      "EMP-002"
+    ],
+    "date": "2025-04-17",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-107",
+    "title": "Architecture Decision 107",
+    "participants": [
+      "EMP-004",
+      "EMP-002"
+    ],
+    "date": "2025-04-18",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-108",
+    "title": "Architecture Decision 108",
+    "participants": [
+      "EMP-013",
+      "EMP-011"
+    ],
+    "date": "2025-04-19",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-109",
+    "title": "Architecture Decision 109",
+    "participants": [
+      "EMP-004",
+      "EMP-008"
+    ],
+    "date": "2025-04-20",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-110",
+    "title": "Architecture Decision 110",
+    "participants": [
+      "EMP-007",
+      "EMP-020"
+    ],
+    "date": "2025-04-21",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-111",
+    "title": "Architecture Decision 111",
+    "participants": [
+      "EMP-018",
+      "EMP-015"
+    ],
+    "date": "2025-04-22",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-112",
+    "title": "Architecture Decision 112",
+    "participants": [
+      "EMP-005",
+      "EMP-014"
+    ],
+    "date": "2025-04-23",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-113",
+    "title": "Architecture Decision 113",
+    "participants": [
+      "EMP-006",
+      "EMP-009"
+    ],
+    "date": "2025-04-24",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-114",
+    "title": "Architecture Decision 114",
+    "participants": [
+      "EMP-015",
+      "EMP-008"
+    ],
+    "date": "2025-04-25",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-115",
+    "title": "Architecture Decision 115",
+    "participants": [
+      "EMP-003",
+      "EMP-015"
+    ],
+    "date": "2025-04-26",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-116",
+    "title": "Architecture Decision 116",
+    "participants": [
+      "EMP-018",
+      "EMP-004"
+    ],
+    "date": "2025-04-27",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-117",
+    "title": "Architecture Decision 117",
+    "participants": [
+      "EMP-002",
+      "EMP-018"
+    ],
+    "date": "2025-04-28",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-118",
+    "title": "Architecture Decision 118",
+    "participants": [
+      "EMP-001",
+      "EMP-003"
+    ],
+    "date": "2025-04-29",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-119",
+    "title": "Architecture Decision 119",
+    "participants": [
+      "EMP-008",
+      "EMP-006"
+    ],
+    "date": "2025-04-30",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-120",
+    "title": "Architecture Decision 120",
+    "participants": [
+      "EMP-014",
+      "EMP-016"
+    ],
+    "date": "2025-05-01",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-121",
+    "title": "Architecture Decision 121",
+    "participants": [
+      "EMP-016",
+      "EMP-007"
+    ],
+    "date": "2025-05-02",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-122",
+    "title": "Architecture Decision 122",
+    "participants": [
+      "EMP-013",
+      "EMP-002"
+    ],
+    "date": "2025-05-03",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-123",
+    "title": "Architecture Decision 123",
+    "participants": [
+      "EMP-006",
+      "EMP-013"
+    ],
+    "date": "2025-05-04",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-124",
+    "title": "Architecture Decision 124",
+    "participants": [
+      "EMP-001",
+      "EMP-013"
+    ],
+    "date": "2025-05-05",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-125",
+    "title": "Architecture Decision 125",
+    "participants": [
+      "EMP-009",
+      "EMP-015"
+    ],
+    "date": "2025-05-06",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-126",
+    "title": "Architecture Decision 126",
+    "participants": [
+      "EMP-010",
+      "EMP-014"
+    ],
+    "date": "2025-05-07",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-127",
+    "title": "Architecture Decision 127",
+    "participants": [
+      "EMP-018",
+      "EMP-016"
+    ],
+    "date": "2025-05-08",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-128",
+    "title": "Architecture Decision 128",
+    "participants": [
+      "EMP-005",
+      "EMP-007"
+    ],
+    "date": "2025-05-09",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-129",
+    "title": "Architecture Decision 129",
+    "participants": [
+      "EMP-010",
+      "EMP-007"
+    ],
+    "date": "2025-05-10",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-130",
+    "title": "Architecture Decision 130",
+    "participants": [
+      "EMP-002",
+      "EMP-019"
+    ],
+    "date": "2025-05-11",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-131",
+    "title": "Architecture Decision 131",
+    "participants": [
+      "EMP-018",
+      "EMP-002"
+    ],
+    "date": "2025-05-12",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-132",
+    "title": "Architecture Decision 132",
+    "participants": [
+      "EMP-011",
+      "EMP-002"
+    ],
+    "date": "2025-05-13",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-133",
+    "title": "Architecture Decision 133",
+    "participants": [
+      "EMP-002",
+      "EMP-019"
+    ],
+    "date": "2025-05-14",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-134",
+    "title": "Architecture Decision 134",
+    "participants": [
+      "EMP-016",
+      "EMP-017"
+    ],
+    "date": "2025-05-15",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-135",
+    "title": "Architecture Decision 135",
+    "participants": [
+      "EMP-017",
+      "EMP-006"
+    ],
+    "date": "2025-05-16",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-136",
+    "title": "Architecture Decision 136",
+    "participants": [
+      "EMP-002",
+      "EMP-017"
+    ],
+    "date": "2025-05-17",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-137",
+    "title": "Architecture Decision 137",
+    "participants": [
+      "EMP-003",
+      "EMP-006"
+    ],
+    "date": "2025-05-18",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-138",
+    "title": "Architecture Decision 138",
+    "participants": [
+      "EMP-003",
+      "EMP-020"
+    ],
+    "date": "2025-05-19",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-139",
+    "title": "Architecture Decision 139",
+    "participants": [
+      "EMP-008",
+      "EMP-013"
+    ],
+    "date": "2025-05-20",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-140",
+    "title": "Architecture Decision 140",
+    "participants": [
+      "EMP-004",
+      "EMP-019"
+    ],
+    "date": "2025-05-21",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-141",
+    "title": "Architecture Decision 141",
+    "participants": [
+      "EMP-008",
+      "EMP-019"
+    ],
+    "date": "2025-05-22",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-142",
+    "title": "Architecture Decision 142",
+    "participants": [
+      "EMP-020",
+      "EMP-002"
+    ],
+    "date": "2025-05-23",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-143",
+    "title": "Architecture Decision 143",
+    "participants": [
+      "EMP-020",
+      "EMP-003"
+    ],
+    "date": "2025-05-24",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-144",
+    "title": "Architecture Decision 144",
+    "participants": [
+      "EMP-014",
+      "EMP-019"
+    ],
+    "date": "2025-05-25",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-145",
+    "title": "Architecture Decision 145",
+    "participants": [
+      "EMP-019",
+      "EMP-017"
+    ],
+    "date": "2025-05-26",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-146",
+    "title": "Architecture Decision 146",
+    "participants": [
+      "EMP-011",
+      "EMP-009"
+    ],
+    "date": "2025-05-27",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-147",
+    "title": "Architecture Decision 147",
+    "participants": [
+      "EMP-007",
+      "EMP-011"
+    ],
+    "date": "2025-05-28",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-148",
+    "title": "Architecture Decision 148",
+    "participants": [
+      "EMP-008",
+      "EMP-009"
+    ],
+    "date": "2025-05-29",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-149",
+    "title": "Architecture Decision 149",
+    "participants": [
+      "EMP-013",
+      "EMP-005"
+    ],
+    "date": "2025-05-30",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-150",
+    "title": "Architecture Decision 150",
+    "participants": [
+      "EMP-010",
+      "EMP-015"
+    ],
+    "date": "2025-05-31",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-151",
+    "title": "Architecture Decision 151",
+    "participants": [
+      "EMP-011",
+      "EMP-003"
+    ],
+    "date": "2025-06-01",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-152",
+    "title": "Architecture Decision 152",
+    "participants": [
+      "EMP-001",
+      "EMP-015"
+    ],
+    "date": "2025-06-02",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-153",
+    "title": "Architecture Decision 153",
+    "participants": [
+      "EMP-020",
+      "EMP-019"
+    ],
+    "date": "2025-06-03",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-154",
+    "title": "Architecture Decision 154",
+    "participants": [
+      "EMP-004",
+      "EMP-003"
+    ],
+    "date": "2025-06-04",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-155",
+    "title": "Architecture Decision 155",
+    "participants": [
+      "EMP-018",
+      "EMP-007"
+    ],
+    "date": "2025-06-05",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-156",
+    "title": "Architecture Decision 156",
+    "participants": [
+      "EMP-017",
+      "EMP-009"
+    ],
+    "date": "2025-06-06",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-157",
+    "title": "Architecture Decision 157",
+    "participants": [
+      "EMP-005",
+      "EMP-012"
+    ],
+    "date": "2025-06-07",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-158",
+    "title": "Architecture Decision 158",
+    "participants": [
+      "EMP-003",
+      "EMP-008"
+    ],
+    "date": "2025-06-08",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-159",
+    "title": "Architecture Decision 159",
+    "participants": [
+      "EMP-012",
+      "EMP-010"
+    ],
+    "date": "2025-06-09",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-160",
+    "title": "Architecture Decision 160",
+    "participants": [
+      "EMP-006",
+      "EMP-015"
+    ],
+    "date": "2025-06-10",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-161",
+    "title": "Architecture Decision 161",
+    "participants": [
+      "EMP-018",
+      "EMP-010"
+    ],
+    "date": "2025-06-11",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-162",
+    "title": "Architecture Decision 162",
+    "participants": [
+      "EMP-020",
+      "EMP-017"
+    ],
+    "date": "2025-06-12",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-163",
+    "title": "Architecture Decision 163",
+    "participants": [
+      "EMP-001",
+      "EMP-018"
+    ],
+    "date": "2025-06-13",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-164",
+    "title": "Architecture Decision 164",
+    "participants": [
+      "EMP-010",
+      "EMP-004"
+    ],
+    "date": "2025-06-14",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-165",
+    "title": "Architecture Decision 165",
+    "participants": [
+      "EMP-005",
+      "EMP-009"
+    ],
+    "date": "2025-06-15",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-166",
+    "title": "Architecture Decision 166",
+    "participants": [
+      "EMP-004",
+      "EMP-020"
+    ],
+    "date": "2025-06-16",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-167",
+    "title": "Architecture Decision 167",
+    "participants": [
+      "EMP-018",
+      "EMP-005"
+    ],
+    "date": "2025-06-17",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-168",
+    "title": "Architecture Decision 168",
+    "participants": [
+      "EMP-009",
+      "EMP-010"
+    ],
+    "date": "2025-06-18",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-169",
+    "title": "Architecture Decision 169",
+    "participants": [
+      "EMP-020",
+      "EMP-007"
+    ],
+    "date": "2025-06-19",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-170",
+    "title": "Architecture Decision 170",
+    "participants": [
+      "EMP-011",
+      "EMP-007"
+    ],
+    "date": "2025-06-20",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-171",
+    "title": "Architecture Decision 171",
+    "participants": [
+      "EMP-009",
+      "EMP-017"
+    ],
+    "date": "2025-06-21",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-172",
+    "title": "Architecture Decision 172",
+    "participants": [
+      "EMP-016",
+      "EMP-009"
+    ],
+    "date": "2025-06-22",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-173",
+    "title": "Architecture Decision 173",
+    "participants": [
+      "EMP-002",
+      "EMP-003"
+    ],
+    "date": "2025-06-23",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-174",
+    "title": "Architecture Decision 174",
+    "participants": [
+      "EMP-014",
+      "EMP-009"
+    ],
+    "date": "2025-06-24",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-175",
+    "title": "Architecture Decision 175",
+    "participants": [
+      "EMP-002",
+      "EMP-001"
+    ],
+    "date": "2025-06-25",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-176",
+    "title": "Architecture Decision 176",
+    "participants": [
+      "EMP-011",
+      "EMP-005"
+    ],
+    "date": "2025-06-26",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-177",
+    "title": "Architecture Decision 177",
+    "participants": [
+      "EMP-009",
+      "EMP-006"
+    ],
+    "date": "2025-06-27",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-178",
+    "title": "Architecture Decision 178",
+    "participants": [
+      "EMP-015",
+      "EMP-018"
+    ],
+    "date": "2025-06-28",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-179",
+    "title": "Architecture Decision 179",
+    "participants": [
+      "EMP-014",
+      "EMP-018"
+    ],
+    "date": "2025-06-29",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-180",
+    "title": "Architecture Decision 180",
+    "participants": [
+      "EMP-001",
+      "EMP-004"
+    ],
+    "date": "2025-06-30",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-181",
+    "title": "Architecture Decision 181",
+    "participants": [
+      "EMP-003",
+      "EMP-005"
+    ],
+    "date": "2025-07-01",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-182",
+    "title": "Architecture Decision 182",
+    "participants": [
+      "EMP-018",
+      "EMP-002"
+    ],
+    "date": "2025-07-02",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-183",
+    "title": "Architecture Decision 183",
+    "participants": [
+      "EMP-012",
+      "EMP-019"
+    ],
+    "date": "2025-07-03",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-184",
+    "title": "Architecture Decision 184",
+    "participants": [
+      "EMP-018",
+      "EMP-005"
+    ],
+    "date": "2025-07-04",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-185",
+    "title": "Architecture Decision 185",
+    "participants": [
+      "EMP-014",
+      "EMP-005"
+    ],
+    "date": "2025-07-05",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-186",
+    "title": "Architecture Decision 186",
+    "participants": [
+      "EMP-002",
+      "EMP-010"
+    ],
+    "date": "2025-07-06",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-187",
+    "title": "Architecture Decision 187",
+    "participants": [
+      "EMP-012",
+      "EMP-002"
+    ],
+    "date": "2025-07-07",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-188",
+    "title": "Architecture Decision 188",
+    "participants": [
+      "EMP-012",
+      "EMP-007"
+    ],
+    "date": "2025-07-08",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-189",
+    "title": "Architecture Decision 189",
+    "participants": [
+      "EMP-008",
+      "EMP-004"
+    ],
+    "date": "2025-07-09",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-190",
+    "title": "Architecture Decision 190",
+    "participants": [
+      "EMP-012",
+      "EMP-018"
+    ],
+    "date": "2025-07-10",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-191",
+    "title": "Architecture Decision 191",
+    "participants": [
+      "EMP-014",
+      "EMP-005"
+    ],
+    "date": "2025-07-11",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-192",
+    "title": "Architecture Decision 192",
+    "participants": [
+      "EMP-008",
+      "EMP-006"
+    ],
+    "date": "2025-07-12",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-193",
+    "title": "Architecture Decision 193",
+    "participants": [
+      "EMP-006",
+      "EMP-014"
+    ],
+    "date": "2025-07-13",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-194",
+    "title": "Architecture Decision 194",
+    "participants": [
+      "EMP-001",
+      "EMP-006"
+    ],
+    "date": "2025-07-14",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-195",
+    "title": "Architecture Decision 195",
+    "participants": [
+      "EMP-011",
+      "EMP-014"
+    ],
+    "date": "2025-07-15",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-196",
+    "title": "Architecture Decision 196",
+    "participants": [
+      "EMP-008",
+      "EMP-009"
+    ],
+    "date": "2025-07-16",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-197",
+    "title": "Architecture Decision 197",
+    "participants": [
+      "EMP-006",
+      "EMP-004"
+    ],
+    "date": "2025-07-17",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-198",
+    "title": "Architecture Decision 198",
+    "participants": [
+      "EMP-013",
+      "EMP-002"
+    ],
+    "date": "2025-07-18",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-199",
+    "title": "Architecture Decision 199",
+    "participants": [
+      "EMP-016",
+      "EMP-008"
+    ],
+    "date": "2025-07-19",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-200",
+    "title": "Architecture Decision 200",
+    "participants": [
+      "EMP-007",
+      "EMP-015"
+    ],
+    "date": "2025-07-20",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-201",
+    "title": "Architecture Decision 201",
+    "participants": [
+      "EMP-012",
+      "EMP-010"
+    ],
+    "date": "2025-07-21",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-202",
+    "title": "Architecture Decision 202",
+    "participants": [
+      "EMP-008",
+      "EMP-020"
+    ],
+    "date": "2025-07-22",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-203",
+    "title": "Architecture Decision 203",
+    "participants": [
+      "EMP-001",
+      "EMP-007"
+    ],
+    "date": "2025-07-23",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-204",
+    "title": "Architecture Decision 204",
+    "participants": [
+      "EMP-013",
+      "EMP-011"
+    ],
+    "date": "2025-07-24",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-205",
+    "title": "Architecture Decision 205",
+    "participants": [
+      "EMP-009",
+      "EMP-003"
+    ],
+    "date": "2025-07-25",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-206",
+    "title": "Architecture Decision 206",
+    "participants": [
+      "EMP-009",
+      "EMP-012"
+    ],
+    "date": "2025-07-26",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-207",
+    "title": "Architecture Decision 207",
+    "participants": [
+      "EMP-017",
+      "EMP-013"
+    ],
+    "date": "2025-07-27",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-208",
+    "title": "Architecture Decision 208",
+    "participants": [
+      "EMP-018",
+      "EMP-011"
+    ],
+    "date": "2025-07-28",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-209",
+    "title": "Architecture Decision 209",
+    "participants": [
+      "EMP-001",
+      "EMP-004"
+    ],
+    "date": "2025-07-29",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-210",
+    "title": "Architecture Decision 210",
+    "participants": [
+      "EMP-009",
+      "EMP-006"
+    ],
+    "date": "2025-07-30",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-211",
+    "title": "Architecture Decision 211",
+    "participants": [
+      "EMP-019",
+      "EMP-009"
+    ],
+    "date": "2025-07-31",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-212",
+    "title": "Architecture Decision 212",
+    "participants": [
+      "EMP-002",
+      "EMP-004"
+    ],
+    "date": "2025-08-01",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-213",
+    "title": "Architecture Decision 213",
+    "participants": [
+      "EMP-020",
+      "EMP-014"
+    ],
+    "date": "2025-08-02",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-214",
+    "title": "Architecture Decision 214",
+    "participants": [
+      "EMP-012",
+      "EMP-011"
+    ],
+    "date": "2025-08-03",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-215",
+    "title": "Architecture Decision 215",
+    "participants": [
+      "EMP-014",
+      "EMP-017"
+    ],
+    "date": "2025-08-04",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-216",
+    "title": "Architecture Decision 216",
+    "participants": [
+      "EMP-004",
+      "EMP-013"
+    ],
+    "date": "2025-08-05",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-217",
+    "title": "Architecture Decision 217",
+    "participants": [
+      "EMP-019",
+      "EMP-007"
+    ],
+    "date": "2025-08-06",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-218",
+    "title": "Architecture Decision 218",
+    "participants": [
+      "EMP-009",
+      "EMP-002"
+    ],
+    "date": "2025-08-07",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-219",
+    "title": "Architecture Decision 219",
+    "participants": [
+      "EMP-014",
+      "EMP-001"
+    ],
+    "date": "2025-08-08",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-220",
+    "title": "Architecture Decision 220",
+    "participants": [
+      "EMP-017",
+      "EMP-018"
+    ],
+    "date": "2025-08-09",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-221",
+    "title": "Architecture Decision 221",
+    "participants": [
+      "EMP-007",
+      "EMP-012"
+    ],
+    "date": "2025-08-10",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-222",
+    "title": "Architecture Decision 222",
+    "participants": [
+      "EMP-014",
+      "EMP-003"
+    ],
+    "date": "2025-08-11",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-223",
+    "title": "Architecture Decision 223",
+    "participants": [
+      "EMP-011",
+      "EMP-020"
+    ],
+    "date": "2025-08-12",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-224",
+    "title": "Architecture Decision 224",
+    "participants": [
+      "EMP-004",
+      "EMP-010"
+    ],
+    "date": "2025-08-13",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-225",
+    "title": "Architecture Decision 225",
+    "participants": [
+      "EMP-017",
+      "EMP-010"
+    ],
+    "date": "2025-08-14",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-226",
+    "title": "Architecture Decision 226",
+    "participants": [
+      "EMP-014",
+      "EMP-011"
+    ],
+    "date": "2025-08-15",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-227",
+    "title": "Architecture Decision 227",
+    "participants": [
+      "EMP-013",
+      "EMP-010"
+    ],
+    "date": "2025-08-16",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-228",
+    "title": "Architecture Decision 228",
+    "participants": [
+      "EMP-018",
+      "EMP-005"
+    ],
+    "date": "2025-08-17",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-229",
+    "title": "Architecture Decision 229",
+    "participants": [
+      "EMP-007",
+      "EMP-014"
+    ],
+    "date": "2025-08-18",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-230",
+    "title": "Architecture Decision 230",
+    "participants": [
+      "EMP-013",
+      "EMP-006"
+    ],
+    "date": "2025-08-19",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-231",
+    "title": "Architecture Decision 231",
+    "participants": [
+      "EMP-020",
+      "EMP-019"
+    ],
+    "date": "2025-08-20",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-232",
+    "title": "Architecture Decision 232",
+    "participants": [
+      "EMP-010",
+      "EMP-013"
+    ],
+    "date": "2025-08-21",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-233",
+    "title": "Architecture Decision 233",
+    "participants": [
+      "EMP-018",
+      "EMP-001"
+    ],
+    "date": "2025-08-22",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-234",
+    "title": "Architecture Decision 234",
+    "participants": [
+      "EMP-010",
+      "EMP-020"
+    ],
+    "date": "2025-08-23",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-235",
+    "title": "Architecture Decision 235",
+    "participants": [
+      "EMP-007",
+      "EMP-014"
+    ],
+    "date": "2025-08-24",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-236",
+    "title": "Architecture Decision 236",
+    "participants": [
+      "EMP-019",
+      "EMP-011"
+    ],
+    "date": "2025-08-25",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-237",
+    "title": "Architecture Decision 237",
+    "participants": [
+      "EMP-015",
+      "EMP-020"
+    ],
+    "date": "2025-08-26",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-238",
+    "title": "Architecture Decision 238",
+    "participants": [
+      "EMP-015",
+      "EMP-007"
+    ],
+    "date": "2025-08-27",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-239",
+    "title": "Architecture Decision 239",
+    "participants": [
+      "EMP-017",
+      "EMP-016"
+    ],
+    "date": "2025-08-28",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-240",
+    "title": "Architecture Decision 240",
+    "participants": [
+      "EMP-006",
+      "EMP-003"
+    ],
+    "date": "2025-08-29",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-241",
+    "title": "Architecture Decision 241",
+    "participants": [
+      "EMP-010",
+      "EMP-017"
+    ],
+    "date": "2025-08-30",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-242",
+    "title": "Architecture Decision 242",
+    "participants": [
+      "EMP-020",
+      "EMP-011"
+    ],
+    "date": "2025-08-31",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-243",
+    "title": "Architecture Decision 243",
+    "participants": [
+      "EMP-003",
+      "EMP-008"
+    ],
+    "date": "2025-09-01",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-244",
+    "title": "Architecture Decision 244",
+    "participants": [
+      "EMP-010",
+      "EMP-008"
+    ],
+    "date": "2025-09-02",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-245",
+    "title": "Architecture Decision 245",
+    "participants": [
+      "EMP-007",
+      "EMP-005"
+    ],
+    "date": "2025-09-03",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-246",
+    "title": "Architecture Decision 246",
+    "participants": [
+      "EMP-001",
+      "EMP-002"
+    ],
+    "date": "2025-09-04",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-247",
+    "title": "Architecture Decision 247",
+    "participants": [
+      "EMP-008",
+      "EMP-016"
+    ],
+    "date": "2025-09-05",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-248",
+    "title": "Architecture Decision 248",
+    "participants": [
+      "EMP-020",
+      "EMP-003"
+    ],
+    "date": "2025-09-06",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-249",
+    "title": "Architecture Decision 249",
+    "participants": [
+      "EMP-015",
+      "EMP-014"
+    ],
+    "date": "2025-09-07",
+    "outcome": "Approved"
+  },
+  {
+    "adr_id": "ADR-250",
+    "title": "Architecture Decision 250",
+    "participants": [
+      "EMP-019",
+      "EMP-007"
+    ],
+    "date": "2025-09-08",
+    "outcome": "Approved"
+  }
+]

@@ -1,0 +1,2102 @@
+[
+  {
+    "pr_id": "PR-001",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-018",
+    "reviewers": [
+      "EMP-017",
+      "EMP-016"
+    ],
+    "linked_ticket": "BILL-125",
+    "linked_system": "SYS-ANA",
+    "created_at": "2025-03-11T00:00:00",
+    "merged_at": "2025-03-15T00:00:00"
+  },
+  {
+    "pr_id": "PR-002",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-015",
+    "reviewers": [
+      "EMP-016",
+      "EMP-006"
+    ],
+    "linked_ticket": "AUTH-105",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-12-17T00:00:00",
+    "merged_at": "2025-12-25T00:00:00"
+  },
+  {
+    "pr_id": "PR-003",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-010",
+    "reviewers": [
+      "EMP-002",
+      "EMP-009"
+    ],
+    "linked_ticket": "AUTH-022",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-10-17T00:00:00",
+    "merged_at": "2025-10-18T00:00:00"
+  },
+  {
+    "pr_id": "PR-004",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-015",
+    "reviewers": [
+      "EMP-019",
+      "EMP-016"
+    ],
+    "linked_ticket": "AUTH-058",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-10-03T00:00:00",
+    "merged_at": "2025-10-08T00:00:00"
+  },
+  {
+    "pr_id": "PR-005",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-004",
+    "reviewers": [
+      "EMP-009",
+      "EMP-018"
+    ],
+    "linked_ticket": "AUTH-141",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-09-19T00:00:00",
+    "merged_at": "2025-09-21T00:00:00"
+  },
+  {
+    "pr_id": "PR-006",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-015",
+    "reviewers": [
+      "EMP-018",
+      "EMP-007"
+    ],
+    "linked_ticket": "BILL-211",
+    "linked_system": "SYS-INV",
+    "created_at": "2025-07-07T00:00:00",
+    "merged_at": "2025-07-16T00:00:00"
+  },
+  {
+    "pr_id": "PR-007",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-002",
+    "reviewers": [
+      "EMP-015",
+      "EMP-009"
+    ],
+    "linked_ticket": "BILL-109",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-02-22T00:00:00",
+    "merged_at": "2025-02-26T00:00:00"
+  },
+  {
+    "pr_id": "PR-008",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-007",
+      "EMP-019"
+    ],
+    "linked_ticket": "AUTH-090",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-02-14T00:00:00",
+    "merged_at": "2025-02-22T00:00:00"
+  },
+  {
+    "pr_id": "PR-009",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-006",
+    "reviewers": [
+      "EMP-020",
+      "EMP-005"
+    ],
+    "linked_ticket": "DATA-177",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-06-29T00:00:00",
+    "merged_at": "2025-07-09T00:00:00"
+  },
+  {
+    "pr_id": "PR-010",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-019",
+    "reviewers": [
+      "EMP-012",
+      "EMP-018"
+    ],
+    "linked_ticket": "BILL-201",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-04-16T00:00:00",
+    "merged_at": "2025-04-20T00:00:00"
+  },
+  {
+    "pr_id": "PR-011",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-011",
+    "reviewers": [
+      "EMP-010",
+      "EMP-020"
+    ],
+    "linked_ticket": "PAY-072",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-11-02T00:00:00",
+    "merged_at": "2025-11-11T00:00:00"
+  },
+  {
+    "pr_id": "PR-012",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-005",
+    "reviewers": [
+      "EMP-014",
+      "EMP-002"
+    ],
+    "linked_ticket": "DATA-147",
+    "linked_system": "SYS-AUTH",
+    "created_at": "2025-05-17T00:00:00",
+    "merged_at": "2025-05-26T00:00:00"
+  },
+  {
+    "pr_id": "PR-013",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-005",
+      "EMP-011"
+    ],
+    "linked_ticket": "PAY-071",
+    "linked_system": "SYS-AUTH",
+    "created_at": "2025-12-02T00:00:00",
+    "merged_at": "2025-12-05T00:00:00"
+  },
+  {
+    "pr_id": "PR-014",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-005",
+    "reviewers": [
+      "EMP-019",
+      "EMP-009"
+    ],
+    "linked_ticket": "AUTH-213",
+    "linked_system": "SYS-AUTH",
+    "created_at": "2025-05-07T00:00:00",
+    "merged_at": "2025-05-14T00:00:00"
+  },
+  {
+    "pr_id": "PR-015",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-003",
+    "reviewers": [
+      "EMP-003",
+      "EMP-013"
+    ],
+    "linked_ticket": "DATA-161",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-08-01T00:00:00",
+    "merged_at": "2025-08-08T00:00:00"
+  },
+  {
+    "pr_id": "PR-016",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-016",
+    "reviewers": [
+      "EMP-011",
+      "EMP-019"
+    ],
+    "linked_ticket": "AUTH-132",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-05-23T00:00:00",
+    "merged_at": "2025-05-29T00:00:00"
+  },
+  {
+    "pr_id": "PR-017",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-003",
+    "reviewers": [
+      "EMP-018",
+      "EMP-013"
+    ],
+    "linked_ticket": "DATA-001",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-02-17T00:00:00",
+    "merged_at": "2025-02-25T00:00:00"
+  },
+  {
+    "pr_id": "PR-018",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-009",
+    "reviewers": [
+      "EMP-011",
+      "EMP-010"
+    ],
+    "linked_ticket": "AUTH-056",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-08-08T00:00:00",
+    "merged_at": "2025-08-12T00:00:00"
+  },
+  {
+    "pr_id": "PR-019",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-019",
+    "reviewers": [
+      "EMP-016",
+      "EMP-011"
+    ],
+    "linked_ticket": "BILL-087",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-10-08T00:00:00",
+    "merged_at": "2025-10-18T00:00:00"
+  },
+  {
+    "pr_id": "PR-020",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-004",
+    "reviewers": [
+      "EMP-015",
+      "EMP-001"
+    ],
+    "linked_ticket": "PAY-229",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-12-16T00:00:00",
+    "merged_at": "2025-12-17T00:00:00"
+  },
+  {
+    "pr_id": "PR-021",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-001",
+    "reviewers": [
+      "EMP-014",
+      "EMP-007"
+    ],
+    "linked_ticket": "BILL-032",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-03-22T00:00:00",
+    "merged_at": "2025-03-30T00:00:00"
+  },
+  {
+    "pr_id": "PR-022",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-009",
+    "reviewers": [
+      "EMP-003",
+      "EMP-012"
+    ],
+    "linked_ticket": "DATA-177",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-03-09T00:00:00",
+    "merged_at": "2025-03-14T00:00:00"
+  },
+  {
+    "pr_id": "PR-023",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-002",
+    "reviewers": [
+      "EMP-013",
+      "EMP-010"
+    ],
+    "linked_ticket": "PAY-065",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-02-12T00:00:00",
+    "merged_at": "2025-02-18T00:00:00"
+  },
+  {
+    "pr_id": "PR-024",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-003",
+    "reviewers": [
+      "EMP-004",
+      "EMP-001"
+    ],
+    "linked_ticket": "BILL-186",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-12-25T00:00:00",
+    "merged_at": "2025-12-29T00:00:00"
+  },
+  {
+    "pr_id": "PR-025",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-019",
+    "reviewers": [
+      "EMP-008",
+      "EMP-017"
+    ],
+    "linked_ticket": "AUTH-055",
+    "linked_system": "SYS-INV",
+    "created_at": "2025-09-02T00:00:00",
+    "merged_at": "2025-09-04T00:00:00"
+  },
+  {
+    "pr_id": "PR-026",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-011",
+    "reviewers": [
+      "EMP-004",
+      "EMP-014"
+    ],
+    "linked_ticket": "DATA-175",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-08-16T00:00:00",
+    "merged_at": "2025-08-17T00:00:00"
+  },
+  {
+    "pr_id": "PR-027",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-013",
+      "EMP-003"
+    ],
+    "linked_ticket": "DATA-178",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-03-09T00:00:00",
+    "merged_at": "2025-03-17T00:00:00"
+  },
+  {
+    "pr_id": "PR-028",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-012",
+    "reviewers": [
+      "EMP-010",
+      "EMP-005"
+    ],
+    "linked_ticket": "BILL-188",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-02-22T00:00:00",
+    "merged_at": "2025-02-24T00:00:00"
+  },
+  {
+    "pr_id": "PR-029",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-017",
+    "reviewers": [
+      "EMP-019",
+      "EMP-001"
+    ],
+    "linked_ticket": "AUTH-098",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-03-10T00:00:00",
+    "merged_at": "2025-03-13T00:00:00"
+  },
+  {
+    "pr_id": "PR-030",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-012",
+    "reviewers": [
+      "EMP-007",
+      "EMP-005"
+    ],
+    "linked_ticket": "DATA-157",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-11-29T00:00:00",
+    "merged_at": "2025-12-02T00:00:00"
+  },
+  {
+    "pr_id": "PR-031",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-007",
+    "reviewers": [
+      "EMP-003",
+      "EMP-004"
+    ],
+    "linked_ticket": "BILL-236",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-07-30T00:00:00",
+    "merged_at": "2025-08-09T00:00:00"
+  },
+  {
+    "pr_id": "PR-032",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-012",
+    "reviewers": [
+      "EMP-014",
+      "EMP-011"
+    ],
+    "linked_ticket": "DATA-036",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-03-05T00:00:00",
+    "merged_at": "2025-03-15T00:00:00"
+  },
+  {
+    "pr_id": "PR-033",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-003",
+    "reviewers": [
+      "EMP-008",
+      "EMP-018"
+    ],
+    "linked_ticket": "PAY-203",
+    "linked_system": "SYS-INV",
+    "created_at": "2025-03-13T00:00:00",
+    "merged_at": "2025-03-17T00:00:00"
+  },
+  {
+    "pr_id": "PR-034",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-001",
+    "reviewers": [
+      "EMP-010",
+      "EMP-007"
+    ],
+    "linked_ticket": "DATA-154",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-11-04T00:00:00",
+    "merged_at": "2025-11-14T00:00:00"
+  },
+  {
+    "pr_id": "PR-035",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-013",
+    "reviewers": [
+      "EMP-010",
+      "EMP-002"
+    ],
+    "linked_ticket": "BILL-133",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-11-07T00:00:00",
+    "merged_at": "2025-11-16T00:00:00"
+  },
+  {
+    "pr_id": "PR-036",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-004",
+    "reviewers": [
+      "EMP-008",
+      "EMP-016"
+    ],
+    "linked_ticket": "BILL-201",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-05-03T00:00:00",
+    "merged_at": "2025-05-11T00:00:00"
+  },
+  {
+    "pr_id": "PR-037",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-001",
+    "reviewers": [
+      "EMP-012",
+      "EMP-011"
+    ],
+    "linked_ticket": "PAY-164",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-11-01T00:00:00",
+    "merged_at": "2025-11-03T00:00:00"
+  },
+  {
+    "pr_id": "PR-038",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-012",
+    "reviewers": [
+      "EMP-018",
+      "EMP-006"
+    ],
+    "linked_ticket": "AUTH-034",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-07-18T00:00:00",
+    "merged_at": "2025-07-28T00:00:00"
+  },
+  {
+    "pr_id": "PR-039",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-019",
+    "reviewers": [
+      "EMP-003",
+      "EMP-001"
+    ],
+    "linked_ticket": "DATA-196",
+    "linked_system": "SYS-ANA",
+    "created_at": "2025-08-30T00:00:00",
+    "merged_at": "2025-09-01T00:00:00"
+  },
+  {
+    "pr_id": "PR-040",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-013",
+    "reviewers": [
+      "EMP-017",
+      "EMP-010"
+    ],
+    "linked_ticket": "DATA-068",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-04-21T00:00:00",
+    "merged_at": "2025-04-22T00:00:00"
+  },
+  {
+    "pr_id": "PR-041",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-014",
+    "reviewers": [
+      "EMP-013",
+      "EMP-003"
+    ],
+    "linked_ticket": "DATA-161",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-12-31T00:00:00",
+    "merged_at": "2026-01-09T00:00:00"
+  },
+  {
+    "pr_id": "PR-042",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-005",
+    "reviewers": [
+      "EMP-009",
+      "EMP-003"
+    ],
+    "linked_ticket": "PAY-164",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-10-02T00:00:00",
+    "merged_at": "2025-10-11T00:00:00"
+  },
+  {
+    "pr_id": "PR-043",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-005",
+    "reviewers": [
+      "EMP-018",
+      "EMP-011"
+    ],
+    "linked_ticket": "BILL-080",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-02-10T00:00:00",
+    "merged_at": "2025-02-19T00:00:00"
+  },
+  {
+    "pr_id": "PR-044",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-014",
+    "reviewers": [
+      "EMP-008",
+      "EMP-002"
+    ],
+    "linked_ticket": "PAY-101",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-10-28T00:00:00",
+    "merged_at": "2025-10-30T00:00:00"
+  },
+  {
+    "pr_id": "PR-045",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-015",
+    "reviewers": [
+      "EMP-020",
+      "EMP-002"
+    ],
+    "linked_ticket": "PAY-063",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-02-14T00:00:00",
+    "merged_at": "2025-02-21T00:00:00"
+  },
+  {
+    "pr_id": "PR-046",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-001",
+    "reviewers": [
+      "EMP-005",
+      "EMP-001"
+    ],
+    "linked_ticket": "BILL-080",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-12-08T00:00:00",
+    "merged_at": "2025-12-11T00:00:00"
+  },
+  {
+    "pr_id": "PR-047",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-017",
+    "reviewers": [
+      "EMP-009",
+      "EMP-006"
+    ],
+    "linked_ticket": "AUTH-042",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-09-12T00:00:00",
+    "merged_at": "2025-09-18T00:00:00"
+  },
+  {
+    "pr_id": "PR-048",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-001",
+    "reviewers": [
+      "EMP-011",
+      "EMP-014"
+    ],
+    "linked_ticket": "PAY-096",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-03-06T00:00:00",
+    "merged_at": "2025-03-11T00:00:00"
+  },
+  {
+    "pr_id": "PR-049",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-019",
+    "reviewers": [
+      "EMP-003",
+      "EMP-016"
+    ],
+    "linked_ticket": "PAY-070",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-09-26T00:00:00",
+    "merged_at": "2025-09-28T00:00:00"
+  },
+  {
+    "pr_id": "PR-050",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-016",
+    "reviewers": [
+      "EMP-019",
+      "EMP-006"
+    ],
+    "linked_ticket": "BILL-117",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-09-19T00:00:00",
+    "merged_at": "2025-09-25T00:00:00"
+  },
+  {
+    "pr_id": "PR-051",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-019",
+    "reviewers": [
+      "EMP-004",
+      "EMP-008"
+    ],
+    "linked_ticket": "PAY-095",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-03-22T00:00:00",
+    "merged_at": "2025-03-27T00:00:00"
+  },
+  {
+    "pr_id": "PR-052",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-001",
+    "reviewers": [
+      "EMP-008",
+      "EMP-002"
+    ],
+    "linked_ticket": "BILL-190",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-09-18T00:00:00",
+    "merged_at": "2025-09-19T00:00:00"
+  },
+  {
+    "pr_id": "PR-053",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-006",
+    "reviewers": [
+      "EMP-002",
+      "EMP-018"
+    ],
+    "linked_ticket": "AUTH-121",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-07-06T00:00:00",
+    "merged_at": "2025-07-13T00:00:00"
+  },
+  {
+    "pr_id": "PR-054",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-011",
+    "reviewers": [
+      "EMP-008",
+      "EMP-014"
+    ],
+    "linked_ticket": "DATA-206",
+    "linked_system": "SYS-DATA",
+    "created_at": "2026-01-01T00:00:00",
+    "merged_at": "2026-01-08T00:00:00"
+  },
+  {
+    "pr_id": "PR-055",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-019",
+    "reviewers": [
+      "EMP-012",
+      "EMP-004"
+    ],
+    "linked_ticket": "DATA-235",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-06-13T00:00:00",
+    "merged_at": "2025-06-18T00:00:00"
+  },
+  {
+    "pr_id": "PR-056",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-017",
+      "EMP-002"
+    ],
+    "linked_ticket": "AUTH-129",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-12-11T00:00:00",
+    "merged_at": "2025-12-12T00:00:00"
+  },
+  {
+    "pr_id": "PR-057",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-010",
+    "reviewers": [
+      "EMP-010",
+      "EMP-011"
+    ],
+    "linked_ticket": "BILL-245",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-07-25T00:00:00",
+    "merged_at": "2025-07-27T00:00:00"
+  },
+  {
+    "pr_id": "PR-058",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-012",
+    "reviewers": [
+      "EMP-007",
+      "EMP-010"
+    ],
+    "linked_ticket": "PAY-023",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-10-11T00:00:00",
+    "merged_at": "2025-10-19T00:00:00"
+  },
+  {
+    "pr_id": "PR-059",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-015",
+    "reviewers": [
+      "EMP-012",
+      "EMP-019"
+    ],
+    "linked_ticket": "BILL-145",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-06-05T00:00:00",
+    "merged_at": "2025-06-15T00:00:00"
+  },
+  {
+    "pr_id": "PR-060",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-005",
+      "EMP-001"
+    ],
+    "linked_ticket": "DATA-249",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-09-10T00:00:00",
+    "merged_at": "2025-09-14T00:00:00"
+  },
+  {
+    "pr_id": "PR-061",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-018",
+    "reviewers": [
+      "EMP-012",
+      "EMP-001"
+    ],
+    "linked_ticket": "AUTH-239",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-07-29T00:00:00",
+    "merged_at": "2025-07-30T00:00:00"
+  },
+  {
+    "pr_id": "PR-062",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-010",
+    "reviewers": [
+      "EMP-004",
+      "EMP-007"
+    ],
+    "linked_ticket": "DATA-244",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-06-21T00:00:00",
+    "merged_at": "2025-06-22T00:00:00"
+  },
+  {
+    "pr_id": "PR-063",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-002",
+    "reviewers": [
+      "EMP-005",
+      "EMP-009"
+    ],
+    "linked_ticket": "PAY-136",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-05-02T00:00:00",
+    "merged_at": "2025-05-09T00:00:00"
+  },
+  {
+    "pr_id": "PR-064",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-014",
+    "reviewers": [
+      "EMP-012",
+      "EMP-015"
+    ],
+    "linked_ticket": "BILL-024",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-01-23T00:00:00",
+    "merged_at": "2025-01-27T00:00:00"
+  },
+  {
+    "pr_id": "PR-065",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-017",
+    "reviewers": [
+      "EMP-005",
+      "EMP-013"
+    ],
+    "linked_ticket": "PAY-250",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-02-13T00:00:00",
+    "merged_at": "2025-02-23T00:00:00"
+  },
+  {
+    "pr_id": "PR-066",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-014",
+    "reviewers": [
+      "EMP-005",
+      "EMP-008"
+    ],
+    "linked_ticket": "AUTH-020",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-10-31T00:00:00",
+    "merged_at": "2025-11-10T00:00:00"
+  },
+  {
+    "pr_id": "PR-067",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-011",
+    "reviewers": [
+      "EMP-011",
+      "EMP-015"
+    ],
+    "linked_ticket": "DATA-075",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-05-14T00:00:00",
+    "merged_at": "2025-05-20T00:00:00"
+  },
+  {
+    "pr_id": "PR-068",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-005",
+    "reviewers": [
+      "EMP-019",
+      "EMP-004"
+    ],
+    "linked_ticket": "PAY-070",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-04-30T00:00:00",
+    "merged_at": "2025-05-02T00:00:00"
+  },
+  {
+    "pr_id": "PR-069",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-015",
+    "reviewers": [
+      "EMP-011",
+      "EMP-014"
+    ],
+    "linked_ticket": "BILL-040",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-02-24T00:00:00",
+    "merged_at": "2025-02-27T00:00:00"
+  },
+  {
+    "pr_id": "PR-070",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-015",
+    "reviewers": [
+      "EMP-010",
+      "EMP-015"
+    ],
+    "linked_ticket": "PAY-031",
+    "linked_system": "SYS-AUTH",
+    "created_at": "2025-10-02T00:00:00",
+    "merged_at": "2025-10-08T00:00:00"
+  },
+  {
+    "pr_id": "PR-071",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-010",
+    "reviewers": [
+      "EMP-020",
+      "EMP-002"
+    ],
+    "linked_ticket": "DATA-068",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-03-03T00:00:00",
+    "merged_at": "2025-03-05T00:00:00"
+  },
+  {
+    "pr_id": "PR-072",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-012",
+      "EMP-013"
+    ],
+    "linked_ticket": "AUTH-056",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-06-17T00:00:00",
+    "merged_at": "2025-06-20T00:00:00"
+  },
+  {
+    "pr_id": "PR-073",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-006",
+    "reviewers": [
+      "EMP-001",
+      "EMP-013"
+    ],
+    "linked_ticket": "AUTH-132",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-01-26T00:00:00",
+    "merged_at": "2025-01-31T00:00:00"
+  },
+  {
+    "pr_id": "PR-074",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-004",
+      "EMP-015"
+    ],
+    "linked_ticket": "BILL-219",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-08-20T00:00:00",
+    "merged_at": "2025-08-29T00:00:00"
+  },
+  {
+    "pr_id": "PR-075",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-002",
+    "reviewers": [
+      "EMP-008",
+      "EMP-005"
+    ],
+    "linked_ticket": "PAY-027",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-03-13T00:00:00",
+    "merged_at": "2025-03-15T00:00:00"
+  },
+  {
+    "pr_id": "PR-076",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-019",
+    "reviewers": [
+      "EMP-019",
+      "EMP-009"
+    ],
+    "linked_ticket": "BILL-051",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-07-25T00:00:00",
+    "merged_at": "2025-07-31T00:00:00"
+  },
+  {
+    "pr_id": "PR-077",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-007",
+    "reviewers": [
+      "EMP-015",
+      "EMP-005"
+    ],
+    "linked_ticket": "DATA-235",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-02-08T00:00:00",
+    "merged_at": "2025-02-09T00:00:00"
+  },
+  {
+    "pr_id": "PR-078",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-015",
+    "reviewers": [
+      "EMP-002",
+      "EMP-006"
+    ],
+    "linked_ticket": "BILL-024",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-06-19T00:00:00",
+    "merged_at": "2025-06-21T00:00:00"
+  },
+  {
+    "pr_id": "PR-079",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-016",
+    "reviewers": [
+      "EMP-001",
+      "EMP-013"
+    ],
+    "linked_ticket": "DATA-237",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-10-21T00:00:00",
+    "merged_at": "2025-10-28T00:00:00"
+  },
+  {
+    "pr_id": "PR-080",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-007",
+    "reviewers": [
+      "EMP-006",
+      "EMP-009"
+    ],
+    "linked_ticket": "DATA-175",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-08-07T00:00:00",
+    "merged_at": "2025-08-10T00:00:00"
+  },
+  {
+    "pr_id": "PR-081",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-020",
+    "reviewers": [
+      "EMP-020",
+      "EMP-008"
+    ],
+    "linked_ticket": "PAY-072",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-08-17T00:00:00",
+    "merged_at": "2025-08-20T00:00:00"
+  },
+  {
+    "pr_id": "PR-082",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-018",
+    "reviewers": [
+      "EMP-016",
+      "EMP-002"
+    ],
+    "linked_ticket": "AUTH-166",
+    "linked_system": "SYS-AUTH",
+    "created_at": "2025-06-01T00:00:00",
+    "merged_at": "2025-06-09T00:00:00"
+  },
+  {
+    "pr_id": "PR-083",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-014",
+    "reviewers": [
+      "EMP-007",
+      "EMP-017"
+    ],
+    "linked_ticket": "PAY-023",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-05-24T00:00:00",
+    "merged_at": "2025-05-31T00:00:00"
+  },
+  {
+    "pr_id": "PR-084",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-013",
+    "reviewers": [
+      "EMP-012",
+      "EMP-016"
+    ],
+    "linked_ticket": "AUTH-064",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-11-19T00:00:00",
+    "merged_at": "2025-11-28T00:00:00"
+  },
+  {
+    "pr_id": "PR-085",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-017",
+    "reviewers": [
+      "EMP-011",
+      "EMP-013"
+    ],
+    "linked_ticket": "DATA-140",
+    "linked_system": "SYS-INV",
+    "created_at": "2025-09-06T00:00:00",
+    "merged_at": "2025-09-12T00:00:00"
+  },
+  {
+    "pr_id": "PR-086",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-020",
+    "reviewers": [
+      "EMP-008",
+      "EMP-001"
+    ],
+    "linked_ticket": "PAY-070",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-04-03T00:00:00",
+    "merged_at": "2025-04-04T00:00:00"
+  },
+  {
+    "pr_id": "PR-087",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-017",
+    "reviewers": [
+      "EMP-012",
+      "EMP-019"
+    ],
+    "linked_ticket": "DATA-230",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-05-24T00:00:00",
+    "merged_at": "2025-05-25T00:00:00"
+  },
+  {
+    "pr_id": "PR-088",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-009",
+      "EMP-018"
+    ],
+    "linked_ticket": "AUTH-060",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-03-23T00:00:00",
+    "merged_at": "2025-03-25T00:00:00"
+  },
+  {
+    "pr_id": "PR-089",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-013",
+    "reviewers": [
+      "EMP-012",
+      "EMP-006"
+    ],
+    "linked_ticket": "DATA-209",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-01-29T00:00:00",
+    "merged_at": "2025-02-02T00:00:00"
+  },
+  {
+    "pr_id": "PR-090",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-012",
+    "reviewers": [
+      "EMP-019",
+      "EMP-001"
+    ],
+    "linked_ticket": "AUTH-046",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-05-02T00:00:00",
+    "merged_at": "2025-05-12T00:00:00"
+  },
+  {
+    "pr_id": "PR-091",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-019",
+    "reviewers": [
+      "EMP-005",
+      "EMP-019"
+    ],
+    "linked_ticket": "AUTH-181",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-12-25T00:00:00",
+    "merged_at": "2025-12-31T00:00:00"
+  },
+  {
+    "pr_id": "PR-092",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-010",
+    "reviewers": [
+      "EMP-006",
+      "EMP-016"
+    ],
+    "linked_ticket": "DATA-243",
+    "linked_system": "SYS-ANA",
+    "created_at": "2025-04-07T00:00:00",
+    "merged_at": "2025-04-15T00:00:00"
+  },
+  {
+    "pr_id": "PR-093",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-020",
+    "reviewers": [
+      "EMP-008",
+      "EMP-001"
+    ],
+    "linked_ticket": "AUTH-010",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-02-16T00:00:00",
+    "merged_at": "2025-02-17T00:00:00"
+  },
+  {
+    "pr_id": "PR-094",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-020",
+    "reviewers": [
+      "EMP-007",
+      "EMP-005"
+    ],
+    "linked_ticket": "PAY-135",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-09-02T00:00:00",
+    "merged_at": "2025-09-03T00:00:00"
+  },
+  {
+    "pr_id": "PR-095",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-001",
+    "reviewers": [
+      "EMP-005",
+      "EMP-019"
+    ],
+    "linked_ticket": "PAY-088",
+    "linked_system": "SYS-AUTH",
+    "created_at": "2025-04-01T00:00:00",
+    "merged_at": "2025-04-07T00:00:00"
+  },
+  {
+    "pr_id": "PR-096",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-012",
+    "reviewers": [
+      "EMP-003",
+      "EMP-012"
+    ],
+    "linked_ticket": "AUTH-181",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-03-14T00:00:00",
+    "merged_at": "2025-03-16T00:00:00"
+  },
+  {
+    "pr_id": "PR-097",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-004",
+    "reviewers": [
+      "EMP-011",
+      "EMP-010"
+    ],
+    "linked_ticket": "AUTH-181",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-12-06T00:00:00",
+    "merged_at": "2025-12-13T00:00:00"
+  },
+  {
+    "pr_id": "PR-098",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-016",
+    "reviewers": [
+      "EMP-011",
+      "EMP-006"
+    ],
+    "linked_ticket": "DATA-083",
+    "linked_system": "SYS-ANA",
+    "created_at": "2025-03-11T00:00:00",
+    "merged_at": "2025-03-14T00:00:00"
+  },
+  {
+    "pr_id": "PR-099",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-019",
+      "EMP-006"
+    ],
+    "linked_ticket": "AUTH-182",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-10-15T00:00:00",
+    "merged_at": "2025-10-25T00:00:00"
+  },
+  {
+    "pr_id": "PR-100",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-006",
+    "reviewers": [
+      "EMP-001",
+      "EMP-019"
+    ],
+    "linked_ticket": "PAY-097",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-06-07T00:00:00",
+    "merged_at": "2025-06-12T00:00:00"
+  },
+  {
+    "pr_id": "PR-101",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-020",
+    "reviewers": [
+      "EMP-011",
+      "EMP-008"
+    ],
+    "linked_ticket": "PAY-101",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-10-18T00:00:00",
+    "merged_at": "2025-10-19T00:00:00"
+  },
+  {
+    "pr_id": "PR-102",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-005",
+    "reviewers": [
+      "EMP-011",
+      "EMP-003"
+    ],
+    "linked_ticket": "PAY-164",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-10-17T00:00:00",
+    "merged_at": "2025-10-19T00:00:00"
+  },
+  {
+    "pr_id": "PR-103",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-003",
+    "reviewers": [
+      "EMP-011",
+      "EMP-015"
+    ],
+    "linked_ticket": "PAY-061",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-06-27T00:00:00",
+    "merged_at": "2025-07-03T00:00:00"
+  },
+  {
+    "pr_id": "PR-104",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-003",
+    "reviewers": [
+      "EMP-012",
+      "EMP-009"
+    ],
+    "linked_ticket": "DATA-003",
+    "linked_system": "SYS-ANA",
+    "created_at": "2025-05-16T00:00:00",
+    "merged_at": "2025-05-20T00:00:00"
+  },
+  {
+    "pr_id": "PR-105",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-013",
+    "reviewers": [
+      "EMP-015",
+      "EMP-014"
+    ],
+    "linked_ticket": "PAY-202",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-02-25T00:00:00",
+    "merged_at": "2025-02-26T00:00:00"
+  },
+  {
+    "pr_id": "PR-106",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-013",
+    "reviewers": [
+      "EMP-012",
+      "EMP-018"
+    ],
+    "linked_ticket": "DATA-249",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-03-27T00:00:00",
+    "merged_at": "2025-04-03T00:00:00"
+  },
+  {
+    "pr_id": "PR-107",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-006",
+      "EMP-015"
+    ],
+    "linked_ticket": "PAY-097",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-02-21T00:00:00",
+    "merged_at": "2025-03-01T00:00:00"
+  },
+  {
+    "pr_id": "PR-108",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-011",
+    "reviewers": [
+      "EMP-009",
+      "EMP-004"
+    ],
+    "linked_ticket": "DATA-019",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-01-18T00:00:00",
+    "merged_at": "2025-01-23T00:00:00"
+  },
+  {
+    "pr_id": "PR-109",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-006",
+    "reviewers": [
+      "EMP-003",
+      "EMP-018"
+    ],
+    "linked_ticket": "DATA-019",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-06-25T00:00:00",
+    "merged_at": "2025-06-28T00:00:00"
+  },
+  {
+    "pr_id": "PR-110",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-020",
+    "reviewers": [
+      "EMP-016",
+      "EMP-001"
+    ],
+    "linked_ticket": "PAY-242",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-02-17T00:00:00",
+    "merged_at": "2025-02-23T00:00:00"
+  },
+  {
+    "pr_id": "PR-111",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-014",
+    "reviewers": [
+      "EMP-006",
+      "EMP-002"
+    ],
+    "linked_ticket": "PAY-111",
+    "linked_system": "SYS-ANA",
+    "created_at": "2025-12-01T00:00:00",
+    "merged_at": "2025-12-04T00:00:00"
+  },
+  {
+    "pr_id": "PR-112",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-014",
+    "reviewers": [
+      "EMP-018",
+      "EMP-020"
+    ],
+    "linked_ticket": "PAY-026",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-06-19T00:00:00",
+    "merged_at": "2025-06-23T00:00:00"
+  },
+  {
+    "pr_id": "PR-113",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-004",
+      "EMP-002"
+    ],
+    "linked_ticket": "DATA-068",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-12-05T00:00:00",
+    "merged_at": "2025-12-10T00:00:00"
+  },
+  {
+    "pr_id": "PR-114",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-005",
+    "reviewers": [
+      "EMP-002",
+      "EMP-012"
+    ],
+    "linked_ticket": "PAY-101",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-10-20T00:00:00",
+    "merged_at": "2025-10-29T00:00:00"
+  },
+  {
+    "pr_id": "PR-115",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-020",
+    "reviewers": [
+      "EMP-016",
+      "EMP-007"
+    ],
+    "linked_ticket": "DATA-001",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-08-07T00:00:00",
+    "merged_at": "2025-08-09T00:00:00"
+  },
+  {
+    "pr_id": "PR-116",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-010",
+    "reviewers": [
+      "EMP-003",
+      "EMP-016"
+    ],
+    "linked_ticket": "DATA-025",
+    "linked_system": "SYS-AUTH",
+    "created_at": "2025-01-14T00:00:00",
+    "merged_at": "2025-01-18T00:00:00"
+  },
+  {
+    "pr_id": "PR-117",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-016",
+    "reviewers": [
+      "EMP-016",
+      "EMP-009"
+    ],
+    "linked_ticket": "BILL-217",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-03-01T00:00:00",
+    "merged_at": "2025-03-06T00:00:00"
+  },
+  {
+    "pr_id": "PR-118",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-006",
+    "reviewers": [
+      "EMP-012",
+      "EMP-013"
+    ],
+    "linked_ticket": "BILL-024",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-11-25T00:00:00",
+    "merged_at": "2025-12-04T00:00:00"
+  },
+  {
+    "pr_id": "PR-119",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-009",
+    "reviewers": [
+      "EMP-015",
+      "EMP-020"
+    ],
+    "linked_ticket": "PAY-095",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-04-06T00:00:00",
+    "merged_at": "2025-04-14T00:00:00"
+  },
+  {
+    "pr_id": "PR-120",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-002",
+    "reviewers": [
+      "EMP-005",
+      "EMP-004"
+    ],
+    "linked_ticket": "DATA-068",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-04-26T00:00:00",
+    "merged_at": "2025-05-01T00:00:00"
+  },
+  {
+    "pr_id": "PR-121",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-014",
+    "reviewers": [
+      "EMP-019",
+      "EMP-008"
+    ],
+    "linked_ticket": "AUTH-022",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-12-09T00:00:00",
+    "merged_at": "2025-12-15T00:00:00"
+  },
+  {
+    "pr_id": "PR-122",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-014",
+    "reviewers": [
+      "EMP-018",
+      "EMP-016"
+    ],
+    "linked_ticket": "PAY-142",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-02-01T00:00:00",
+    "merged_at": "2025-02-08T00:00:00"
+  },
+  {
+    "pr_id": "PR-123",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-003",
+    "reviewers": [
+      "EMP-013",
+      "EMP-002"
+    ],
+    "linked_ticket": "DATA-147",
+    "linked_system": "SYS-AUTH",
+    "created_at": "2025-05-01T00:00:00",
+    "merged_at": "2025-05-09T00:00:00"
+  },
+  {
+    "pr_id": "PR-124",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-020",
+    "reviewers": [
+      "EMP-005",
+      "EMP-004"
+    ],
+    "linked_ticket": "AUTH-129",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-10-20T00:00:00",
+    "merged_at": "2025-10-29T00:00:00"
+  },
+  {
+    "pr_id": "PR-125",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-007",
+    "reviewers": [
+      "EMP-007",
+      "EMP-005"
+    ],
+    "linked_ticket": "DATA-244",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-08-18T00:00:00",
+    "merged_at": "2025-08-21T00:00:00"
+  },
+  {
+    "pr_id": "PR-126",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-007",
+    "reviewers": [
+      "EMP-005",
+      "EMP-009"
+    ],
+    "linked_ticket": "AUTH-011",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-08-05T00:00:00",
+    "merged_at": "2025-08-07T00:00:00"
+  },
+  {
+    "pr_id": "PR-127",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-018",
+    "reviewers": [
+      "EMP-013",
+      "EMP-018"
+    ],
+    "linked_ticket": "DATA-082",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-02-04T00:00:00",
+    "merged_at": "2025-02-06T00:00:00"
+  },
+  {
+    "pr_id": "PR-128",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-001",
+    "reviewers": [
+      "EMP-020",
+      "EMP-019"
+    ],
+    "linked_ticket": "PAY-084",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-05-22T00:00:00",
+    "merged_at": "2025-05-31T00:00:00"
+  },
+  {
+    "pr_id": "PR-129",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-005",
+    "reviewers": [
+      "EMP-005",
+      "EMP-019"
+    ],
+    "linked_ticket": "BILL-134",
+    "linked_system": "SYS-ANA",
+    "created_at": "2025-08-03T00:00:00",
+    "merged_at": "2025-08-05T00:00:00"
+  },
+  {
+    "pr_id": "PR-130",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-019",
+    "reviewers": [
+      "EMP-004",
+      "EMP-010"
+    ],
+    "linked_ticket": "PAY-151",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-10-26T00:00:00",
+    "merged_at": "2025-10-28T00:00:00"
+  },
+  {
+    "pr_id": "PR-131",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-009",
+    "reviewers": [
+      "EMP-013",
+      "EMP-016"
+    ],
+    "linked_ticket": "AUTH-223",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-10-02T00:00:00",
+    "merged_at": "2025-10-08T00:00:00"
+  },
+  {
+    "pr_id": "PR-132",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-006",
+    "reviewers": [
+      "EMP-009",
+      "EMP-013"
+    ],
+    "linked_ticket": "DATA-147",
+    "linked_system": "SYS-AUTH",
+    "created_at": "2025-11-08T00:00:00",
+    "merged_at": "2025-11-16T00:00:00"
+  },
+  {
+    "pr_id": "PR-133",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-002",
+    "reviewers": [
+      "EMP-013",
+      "EMP-011"
+    ],
+    "linked_ticket": "DATA-037",
+    "linked_system": "SYS-INV",
+    "created_at": "2025-11-13T00:00:00",
+    "merged_at": "2025-11-23T00:00:00"
+  },
+  {
+    "pr_id": "PR-134",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-009",
+    "reviewers": [
+      "EMP-012",
+      "EMP-001"
+    ],
+    "linked_ticket": "DATA-177",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-05-02T00:00:00",
+    "merged_at": "2025-05-03T00:00:00"
+  },
+  {
+    "pr_id": "PR-135",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-016",
+    "reviewers": [
+      "EMP-004",
+      "EMP-008"
+    ],
+    "linked_ticket": "BILL-087",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-06-05T00:00:00",
+    "merged_at": "2025-06-10T00:00:00"
+  },
+  {
+    "pr_id": "PR-136",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-009",
+    "reviewers": [
+      "EMP-014",
+      "EMP-003"
+    ],
+    "linked_ticket": "DATA-035",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-06-03T00:00:00",
+    "merged_at": "2025-06-11T00:00:00"
+  },
+  {
+    "pr_id": "PR-137",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-016",
+    "reviewers": [
+      "EMP-017",
+      "EMP-012"
+    ],
+    "linked_ticket": "AUTH-049",
+    "linked_system": "SYS-INV",
+    "created_at": "2025-08-15T00:00:00",
+    "merged_at": "2025-08-19T00:00:00"
+  },
+  {
+    "pr_id": "PR-138",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-003",
+    "reviewers": [
+      "EMP-010",
+      "EMP-017"
+    ],
+    "linked_ticket": "BILL-211",
+    "linked_system": "SYS-INV",
+    "created_at": "2025-01-29T00:00:00",
+    "merged_at": "2025-02-07T00:00:00"
+  },
+  {
+    "pr_id": "PR-139",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-001",
+    "reviewers": [
+      "EMP-006",
+      "EMP-007"
+    ],
+    "linked_ticket": "BILL-104",
+    "linked_system": "SYS-NOTIF",
+    "created_at": "2025-03-11T00:00:00",
+    "merged_at": "2025-03-20T00:00:00"
+  },
+  {
+    "pr_id": "PR-140",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-002",
+    "reviewers": [
+      "EMP-015",
+      "EMP-002"
+    ],
+    "linked_ticket": "BILL-225",
+    "linked_system": "SYS-DATA",
+    "created_at": "2025-04-13T00:00:00",
+    "merged_at": "2025-04-14T00:00:00"
+  },
+  {
+    "pr_id": "PR-141",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-012",
+    "reviewers": [
+      "EMP-015",
+      "EMP-017"
+    ],
+    "linked_ticket": "BILL-236",
+    "linked_system": "SYS-ML",
+    "created_at": "2025-07-04T00:00:00",
+    "merged_at": "2025-07-08T00:00:00"
+  },
+  {
+    "pr_id": "PR-142",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-012",
+      "EMP-016"
+    ],
+    "linked_ticket": "PAY-102",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-11-22T00:00:00",
+    "merged_at": "2025-11-24T00:00:00"
+  },
+  {
+    "pr_id": "PR-143",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-019",
+    "reviewers": [
+      "EMP-018",
+      "EMP-012"
+    ],
+    "linked_ticket": "DATA-153",
+    "linked_system": "SYS-AUTH",
+    "created_at": "2025-08-17T00:00:00",
+    "merged_at": "2025-08-20T00:00:00"
+  },
+  {
+    "pr_id": "PR-144",
+    "repository": "billing-service",
+    "title": "Feature update",
+    "author": "EMP-010",
+    "reviewers": [
+      "EMP-001",
+      "EMP-013"
+    ],
+    "linked_ticket": "AUTH-089",
+    "linked_system": "SYS-SEARCH",
+    "created_at": "2025-03-25T00:00:00",
+    "merged_at": "2025-03-30T00:00:00"
+  },
+  {
+    "pr_id": "PR-145",
+    "repository": "payment-service",
+    "title": "Feature update",
+    "author": "EMP-008",
+    "reviewers": [
+      "EMP-008",
+      "EMP-007"
+    ],
+    "linked_ticket": "DATA-013",
+    "linked_system": "SYS-CUST",
+    "created_at": "2025-03-25T00:00:00",
+    "merged_at": "2025-04-04T00:00:00"
+  },
+  {
+    "pr_id": "PR-146",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-001",
+    "reviewers": [
+      "EMP-001",
+      "EMP-016"
+    ],
+    "linked_ticket": "BILL-069",
+    "linked_system": "SYS-BILL",
+    "created_at": "2025-11-30T00:00:00",
+    "merged_at": "2025-12-07T00:00:00"
+  },
+  {
+    "pr_id": "PR-147",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-001",
+    "reviewers": [
+      "EMP-008",
+      "EMP-009"
+    ],
+    "linked_ticket": "PAY-234",
+    "linked_system": "SYS-AUTH",
+    "created_at": "2025-03-09T00:00:00",
+    "merged_at": "2025-03-12T00:00:00"
+  },
+  {
+    "pr_id": "PR-148",
+    "repository": "customer-portal",
+    "title": "Feature update",
+    "author": "EMP-013",
+    "reviewers": [
+      "EMP-012",
+      "EMP-015"
+    ],
+    "linked_ticket": "PAY-156",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-06-06T00:00:00",
+    "merged_at": "2025-06-11T00:00:00"
+  },
+  {
+    "pr_id": "PR-149",
+    "repository": "analytics-engine",
+    "title": "Feature update",
+    "author": "EMP-017",
+    "reviewers": [
+      "EMP-020",
+      "EMP-013"
+    ],
+    "linked_ticket": "PAY-065",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-04-22T00:00:00",
+    "merged_at": "2025-04-30T00:00:00"
+  },
+  {
+    "pr_id": "PR-150",
+    "repository": "auth-service",
+    "title": "Feature update",
+    "author": "EMP-012",
+    "reviewers": [
+      "EMP-018",
+      "EMP-010"
+    ],
+    "linked_ticket": "BILL-150",
+    "linked_system": "SYS-PAY",
+    "created_at": "2025-02-22T00:00:00",
+    "merged_at": "2025-02-23T00:00:00"
+  }
+]
